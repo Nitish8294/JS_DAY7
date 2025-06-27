@@ -1,0 +1,41 @@
+body{
+   background-color: black;
+   margin: 0px;
+   padding: 0px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+height: 100vh;
+
+}
+
+button{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+      
+}
+
+#red{
+    background-color: red;
+    /* color: wheat; */
+}
+
+#blue{
+    background-color: blue;
+    color: yellow;
+}
+#orangered{
+    background-color: orangered;
+    color:pink;
+}
+
+#green{
+    background-color: green;
+    color: indigo;
+}
+
+#purple{
+    background-color: purple;
+    color: skyblue;
+}

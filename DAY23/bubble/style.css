@@ -1,0 +1,35 @@
+body{
+    /* background-color: black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid black; */
+}
+
+#grandParent{
+    height: 400px;
+    width: 400px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+   border: 2px solid black;
+}
+
+#parent{
+    height: 200px;
+    width: 200px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+}
+
+
+#child{
+    height: 100px;
+    width: 100px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+     border: 2px solid black;
+}
